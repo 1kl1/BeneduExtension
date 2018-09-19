@@ -1,0 +1,18 @@
+{
+    "name": "BeneduExtension",
+    "version": "5.6",
+    "description": "ban&option",
+    "manifest_version": 2,
+    "page_action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "declarativeContent","storage","tabs","*://*/"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "options_page": "optionpage/option.html",
+    "icons": {
+      "128": "icons/benedu_color.png"
+    }
+}
