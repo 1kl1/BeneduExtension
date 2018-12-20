@@ -110,11 +110,14 @@ constructbuttonbox2('Save',function(){
 
 
 constructbuttonboxininner('Save',function(){
-  a = document.getElementById('myinch');
+  a = document.getElementById('on/off');
   userinch = a[a.selectedIndex].value;
+  b = document.getElementById('scroll');
+  userscroll = b[b.selectedIndex].value;
   
   setTimeout(function(){
-    localStorage.setItem('inch',userinch);
+    localStorage.setItem('on/off',userinch);
+    localStorage.setItem('scroll',userscroll);
   },50);
 
   setTimeout(function(){

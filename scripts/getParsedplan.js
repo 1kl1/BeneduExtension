@@ -15,13 +15,13 @@ function parsePlan(rawstring){
     // }
     
     endTime = rawstring.substring(rawstring.indexOf('오후')+3,rawstring.indexOf('오후')+8)
-    subject = rawstring.substring(rawstring.indexOf('과목')+3,).split(' ')[0]
-    title = rawstring.substring(rawstring.indexOf('제목')+3,).split(' ')[0]
+    subject = rawstring.substring(rawstring.indexOf('과목')+3,rawstring.indexOf('제목')).split(' ')[0]
+    title = rawstring.substring(rawstring.indexOf('제목')+3,rawstring.indexOf('교재')).split(' ')[0]
     workbook = rawstring.substring(rawstring.indexOf('교재')+3,rawstring.indexOf('분량')-1)
     amount = rawstring.substring(rawstring.indexOf('분량')+3,)
 
     if(amount.includes("NaN")){
-        amount = "0/0개(100%)"
+        amount = "0/0 개(100%)"
     }
 
     let result = new Object();
@@ -39,7 +39,7 @@ function parsePlan(rawstring){
 
 
 x = document.getElementsByClassName("box_split col-xs-12");
-let resarray=[];
+resarray=[];
 
 for(xval=0;xval<x.length;xval++){
     if(x[xval].getAttribute('onclick')!=null){

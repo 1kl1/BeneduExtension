@@ -1,7 +1,8 @@
 
 table {
+    color: #444444;
     width: 100%;
-    border-top: 1px solid #000000;
+    border-top: 1px solid #444444;
     border-collapse: collapse;
 }
     th, td {
@@ -9,7 +10,8 @@ table {
     padding: 10px;
     text-align: center;
     font-family: 'Hanna', serif;
-        font-size: 20px;
+    font-size: 20px;
+
 }
 
 

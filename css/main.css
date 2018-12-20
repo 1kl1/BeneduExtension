@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css?family=Poor+Story');
+
+.nav_red{
+    background: #db4c3f;
+    color: #fff;
+    height: 40px;
+    width:100%;
+    display: inline-block;
+    text-align: right;
+    border-bottom: solid 1px #ca2100;
+}
+.nav_red li{
+    list-style:none;
+
+    width:50px;
+    height: 50px;
+    margin-top: 3px;
+}
+.nav_red li a{
+    transition:0.70s ease all;
+    margin-top: 7px;
+    margin-left: 7px;
+    cursor: pointer;
+}
+.nav_red li a:hover{
+    background: rgba(255,255,255,0.3);
+    transition: 0.7s ease all;
+}
+
+.container {
+    display: inline-block;
+    cursor: pointer;
+    padding:8px;
+    float:left;
+    transition: 0.5s ease all;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+.container:hover{
+    background-color: #ffffff4d;
+    transition: 0.5s ease all;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 20px;
+    height: 3px;
+    background-color: #fff;
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-6px, 4px);
+    transform: rotate(-45deg) translate(-6px, 4px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-5px, -5px);
+    transform: rotate(45deg) translate(-5px, -5px);
+}
+#main{
+    margin: 0px;
+}
+
+.tab {
+    float: left;
+    box-shadow: 2px 0px 4px lightgrey;
+    background-color: #f1f1f1;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    right: 110%;
+    transition: 1s ease all;
+    margin-top: 8%;
+}
+.tabview.tab{
+    transition: 1s ease all;
+    right: 60%;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/*#############################plus*/
+
+.plus .fas{
+    float:right;
+    font-size: 23px;
+    display: inline-block;
+}
+.plus{
+    cursor: pointer;
+    padding:1.8%;
+    display: inline-block;
+    transition: 0.4s ease all;
+}
+.plus:hover{
+    background-color: #ffffff4d;
+    transition: 0.4s ease all;
+}
+
+/* plus 눌렀을 시 나오는 tab */
+.tab_plus {
+    float: right;
+    box-shadow: -2px 0px 4px lightgrey;
+    background-color: #ffffff;
+    width: 100%;
+    left:0%;
+    position: absolute;
+    transition: 1s ease all;
+    margin-top: -0.5%;
+}
+.tab_plus h2{
+    text-align: left;
+    padding-left: 30px;
+    color: black;
+    font-family: 'Poor Story', cursive;
+}
+.tab_plus #plan_input{
+    float: left;
+    margin-left: 30px;
+    width:300px;
+    height: 30px;
+}
+.tab_plus .alarm{
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    text-align: center;
+    border-radius: 3px;
+    float: left;
+}
+
+
+.change .tab_plus{
+    transition: 1s ease all;
+}
+/* plus 눌렀을 시 나오는 tab */
+/* Style the buttons inside the tab */
+.tab_plus button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab_plus button:hover {
+    background-color: #ddd;
+}
+
+
+
+
+
+
+/*############################################################## SEtting*/
+.setting .fas{
+    float:right;
+    font-size: 23px;
+    display: inline-block;
+}
+.setting{
+    cursor: pointer;
+    padding:1.8%;
+    display: inline-block;
+    transition: 0.4s ease all;
+}
+.setting:hover{
+    background-color: #ffffff4d;
+    transition: 0.4s ease all;
+}
+
+.tab_setting {
+    float: right;
+    box-shadow: -2px 0px 4px lightgrey;
+    background-color: #f1f1f1;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    transition: 1s ease all;
+    left: 110%;
+}
+.setting_change.tab_setting{
+    transition: 1s ease all;
+    left: 60%;
+}
+
+/* Style the buttons inside the tab */
+.tab_setting button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab_setting button:hover {
+    background-color: #ddd;
+}
+
+.tablinks{
+    font-family: 'Poor Story', cursive;
+}
+
+#forPlan{
+    display:none;
+}
+
+
+#tableHeader{
+    font-family: 'Poor Story', cursive;
+    text-align: center;
+}
+
+.button5{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #db4c3f;
+}
+.button5:hover{
+    transition: 0.5s ease all;
+    background-color:#ca2100;
+    cursor: pointer;
+}
+/* ##################################### */

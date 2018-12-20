@@ -1,34 +1,37 @@
 
 function AddUrlRules(){
-  urlArray = localStorage.getItem('url').split(',');
+  if(localStorage.getItem('url')){
+    urlArray = localStorage.getItem('url').split(',');
+    urlArray.forEach(element => {
 
-  urlArray.forEach(element => {
+      rule = {
+        conditions: [new chrome.declarativeContent.PageStateMatcher({
+          pageUrl: {hostEquals: element}
+        })
+        ],
+        actions: [new chrome.declarativeContent.RequestContentScript({
+          js: ['scripts/ban.js']
+        })]
+  
+      }
+      chrome.declarativeContent.onPageChanged.addRules([rule]);
+      
+    });
+  }
 
-    rule = {
-      conditions: [new chrome.declarativeContent.PageStateMatcher({
-        pageUrl: {hostEquals: element}
-      })
-      ],
-      actions: [new chrome.declarativeContent.RequestContentScript({
-        js: ['scripts/ban.js']
-      })]
-
-    }
-    chrome.declarativeContent.onPageChanged.addRules([rule]);
-    
-  });
+  
 
 }
 
-rule1 = {
+alwaysOn = {
   conditions: [new chrome.declarativeContent.PageStateMatcher({
-    pageUrl: {hostEquals: 'www.benedu.co.kr'}
+    pageUrl: {hostContains: ''}
   })
   ],
       actions: [new chrome.declarativeContent.ShowPageAction()]
 }
 
-rule2 = {
+css_scroll_on = {
   conditions: [new chrome.declarativeContent.PageStateMatcher({
     pageUrl: { pathContains : '03StdStudy30TakeExam'}
   })
@@ -41,6 +44,32 @@ rule2 = {
       js: ['scripts/jquery.js','scripts/cssArrange.js']
     })]
 }
+css_scroll_off = {
+  conditions: [new chrome.declarativeContent.PageStateMatcher({
+    pageUrl: { pathContains : '03StdStudy30TakeExam'}
+  })
+  ],
+  // conditions: [new chrome.declarativeContent.PageStateMatcher({
+  //   pageUrl: {hostEquals: 'www.benedu.co.kr'}
+  // })
+  // ],
+    actions: [new chrome.declarativeContent.RequestContentScript({
+      js: ['scripts/jquery.js','scripts/cssArrange_Low.js']
+    })]
+}
+// rule2 = {
+//   conditions: [new chrome.declarativeContent.PageStateMatcher({
+//     pageUrl: { pathContains : '03StdStudy30TakeExam'}
+//   })
+//   ],
+//   // conditions: [new chrome.declarativeContent.PageStateMatcher({
+//   //   pageUrl: {hostEquals: 'www.benedu.co.kr'}
+//   // })
+//   // ],
+//     actions: [new chrome.declarativeContent.RequestContentScript({
+//       js: ['scripts/jquery.js','scripts/cssArrange14.js']
+//     })]
+// }
 
 
 
@@ -48,12 +77,30 @@ rule2 = {
 
 chrome.runtime.onInstalled.addListener(function() {
   chrome.declarativeContent.onPageChanged.removeRules(undefined, function() {
-    chrome.declarativeContent.onPageChanged.addRules([rule1]);
-    chrome.declarativeContent.onPageChanged.addRules([rule2]);
+    chrome.declarativeContent.onPageChanged.addRules([alwaysOn]);
+
+    if(localStorage.getItem('on/off')){
+      if(localStorage.getItem('on/off')=='on'){
+        if(localStorage.getItem('scroll')=='scrollOn'){
+          chrome.declarativeContent.onPageChanged.addRules([css_scroll_on]);
+        }
+        else{
+          chrome.declarativeContent.onPageChanged.addRules([css_scroll_off]);
+        }
+      }
+
+    }
     AddUrlRules();
   });
 });
 
+chrome.pageAction.onClicked.addListener((tabs)=>{
+  chrome.tabs.executeScript(tabs.id,{
+    
+  }, (err)=>{
+    console.log(err);
+  });
+});
 console.log(localStorage);
 
  //chrome에 저장되는 요소는 json형식으로 저장된다.

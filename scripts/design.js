@@ -1,4 +1,3 @@
-
 function gettingPlans(getCallback){
     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
         chrome.tabs.executeScript(
@@ -61,50 +60,41 @@ function settingPlans(leng, plres,inde){
 
 
 
-chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
-    var url = tabs[0].url.split('/')[5];
-    if(url=="02PlnPlanner03Day.aspx"){
-        
-        node = document.getElementById('forPlan');
 
-        
-        node.addEventListener('click',function(){
-            chrome.storage.local.clear();
-            gettingPlans(function(result){
-                if(result.length!=0){
-                    settingPlans(result.length,result,0);
-                }
-                else{}
-            });
-        });
-        
-        node.style.display = "inline-block";
-    }
+
+
+document.getElementById('opener').addEventListener('click',()=>{
+    document.getElementById('opener').classList.toggle("change");
+    document.getElementById('tab').classList.toggle("tabview");
+
+    
+});
+document.getElementById('setting').addEventListener('click',()=>{
+    location.href='optionpage/option.html'
+});
+document.getElementById('planTab').addEventListener('click',()=>{
+    chrome.tabs.create({
+        url:"https://www.benedu.co.kr/Views/04_Planner/02PlnPlanner03Day.aspx"
+
+    },()=>{
+
+    });
 });
 
+document.getElementById('goToQ').addEventListener('click',()=>{
+    chrome.tabs.create({
+        url:"https://www.benedu.co.kr/Views/01_Students/03StdStudy02PaperTestList.aspx"
 
+    },()=>{
 
+    });
+});
 
-// document.getElementById('month').addEventListener('click',()=>{ 
-//     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-//         chrome.tabs.executeScript(
-//             tabs[0].id,
-//             {code: "window.location.href = 'https://www.benedu.co.kr/Views/04_Planner/02PlnPlanner01Month.aspx';"});
-//     });
+document.getElementById('goToMake').addEventListener('click',()=>{
+    chrome.tabs.create({
+        url:"https://www.benedu.co.kr/Views/01_Students/03StdStudy01Question.aspx"
 
-// });
-// document.getElementById('week').addEventListener('click',()=>{
-//     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-//         chrome.tabs.executeScript(
-//             tabs[0].id,
-//             {code: "window.location.href = 'https://www.benedu.co.kr/Views/04_Planner/02PlnPlanner02Week.aspx';"});
-//     });
+    },()=>{
 
-// });
-// document.getElementById('day').addEventListener('click',()=>{
-//     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-//         chrome.tabs.executeScript(
-//             tabs[0].id,
-//             {code: "window.location.href = 'https://www.benedu.co.kr/Views/04_Planner/02PlnPlanner03Day.aspx';"});
-//     });
-// });
+    });
+});

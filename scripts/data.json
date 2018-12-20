@@ -1,0 +1,1766 @@
+{
+    "Kor_meanings": [
+      [
+        "inform",
+        "알리다, 통지하다"
+      ],
+      [
+        "opportunity",
+        "기회"
+      ],
+      [
+        "advise",
+        "충고하다"
+      ],
+      [
+        "ability",
+        "능력"
+      ],
+      [
+        "service",
+        "봉사, 공공 업무, 서비스"
+      ],
+      [
+        "expense",
+        "비용, 지출"
+      ],
+      [
+        "provide",
+        "공급하다, 준비하다"
+      ],
+      [
+        "involve",
+        "포함하다, 관련되다, (사건 등에)말려들게 하다"
+      ],
+      [
+        "relationship",
+        "관계"
+      ],
+      [
+        "stress",
+        "강조, 스트레스, 강조하다, 압력을 주다"
+      ],
+      [
+        "behave",
+        "(예의 바르게) 행동하다"
+      ],
+      [
+        "therefore",
+        "그러므로, 그 결과"
+      ],
+      [
+        "improve",
+        "향상시키다, 향상하다"
+      ],
+      [
+        "average",
+        "평균, 평균의, 평균이 ~가 되다"
+      ],
+      [
+        "individual",
+        "개인, 개인의, 개인적인"
+      ],
+      [
+        "ride",
+        "(탈 것을) 타다, 태움"
+      ],
+      [
+        "require",
+        "필요로 하다, 요구하다"
+      ],
+      [
+        "local",
+        "지방의, 지역의, 장소의"
+      ],
+      [
+        "develop",
+        "개발하다, 발달하다"
+      ],
+      [
+        "encourage",
+        "촉구하다, 격려하다"
+      ],
+      [
+        "social",
+        "사회의, 사교적인"
+      ],
+      [
+        "determine",
+        "결심하다, 결정하다"
+      ],
+      [
+        "amount",
+        "총계, 양, 총계가~이 되다"
+      ],
+      [
+        "comfort",
+        "편안하게하다, 위로하다, 편안, 위로"
+      ],
+      [
+        "employ",
+        "고용하다, 쓰다"
+      ],
+      [
+        "consume",
+        "소비하다"
+      ],
+      [
+        "terrible",
+        "무서운, 끔찍한"
+      ],
+      [
+        "object",
+        "물체, 목표, 반대하다"
+      ],
+      [
+        "attitude",
+        "태도, 입장"
+      ],
+      [
+        "impress",
+        "~에게 깊은 인상을 주다"
+      ],
+      [
+        "research",
+        "연구, 연구하다, 조사하다"
+      ],
+      [
+        "available",
+        "이용 가능한, 쓸모 있는"
+      ],
+      [
+        "audience",
+        "청중, 관객"
+      ],
+      [
+        "contain",
+        "함유하다, 포함하다, 억제하다"
+      ],
+      [
+        "volunteer",
+        "자원봉사, 지원자, 자발적으로 ~하다"
+      ],
+      [
+        "recognize",
+        "인지하다, 인정하다"
+      ],
+      [
+        "influence",
+        "영향, 영향을 미치는 것[사람], 영향을 끼치다"
+      ],
+      [
+        "material",
+        "재료, 물질, 물질의"
+      ],
+      [
+        "international",
+        "국제의, 국제적인"
+      ],
+      [
+        "positive",
+        "긍정적인, 확신하는"
+      ]
+    ],
+    "Eng_meanings": [
+      [
+        "inform",
+        "If you inform someone of something, you tell them about it."
+      ],
+      [
+        "opportunity",
+        "An opportunity is a situation in which it is possible for you to do something that you want to do."
+      ],
+      [
+        "advise",
+        "If you advise someone to do something, you tell them what you think they should do."
+      ],
+      [
+        "ability",
+        "Your ability to do something is the fact that you can do it."
+      ],
+      [
+        "service",
+        "A service is something that the public needs, such as transport, communications facilities, hospitals, or energy supplies, which is provided in a planned and organized way by the government or an official body."
+      ],
+      [
+        "expense",
+        "Expense is the money that something costs you or that you need to spend in order to do something."
+      ],
+      [
+        "provide",
+        "If you provide something that someone needs or wants, or if you provide them with it, you give it to them or make it available to them."
+      ],
+      [
+        "involve",
+        "If a situation or activity involves something, that thing is a necessary part or consequence of it."
+      ],
+      [
+        "relationship",
+        "The relationship between two people or groups is the way in which they feel and behave towards each other."
+      ],
+      [
+        "stress",
+        "If you stress a point in a discussion, you put extra emphasis on it because you think it is important."
+      ],
+      [
+        "behave",
+        "The way that you behave is the way that you do and say things, and the things that you do and say."
+      ],
+      [
+        "therefore",
+        "You use therefore to introduce a logical result or conclusion."
+      ],
+      [
+        "improve",
+        "If something improves or if you improve it, it gets better."
+      ],
+      [
+        "average",
+        "An average is the result that you get when you add two or more numbers together and divide the total by the number of numbers you added together."
+      ],
+      [
+        "individual",
+        "Individual means relating to one person or thing, rather than to a large group."
+      ],
+      [
+        "ride",
+        "When you ride a horse, you sit on it and control its movements."
+      ],
+      [
+        "require",
+        "If you require something or if something is required, you need it or it is necessary."
+      ],
+      [
+        "local",
+        "Local means existing in or belonging to the area where you live, or to the area that you are talking about."
+      ],
+      [
+        "develop",
+        "When something develops, it grows or changes over a period of time and usually becomes more advanced, complete, or severe."
+      ],
+      [
+        "encourage",
+        "If you encourage someone, you give them confidence, for example by letting them know that what they are doing is good and telling them that they should continue to do it."
+      ],
+      [
+        "social",
+        "Social means relating to society or to the way society is organized."
+      ],
+      [
+        "determine",
+        "If a particular factor determines the nature of a thing or event, it causes it to be of a particular kind."
+      ],
+      [
+        "amount",
+        "The amount of something is how much there is, or how much you have, need, or get."
+      ],
+      [
+        "comfort",
+        "If you are doing something in comfort, you are physically relaxed and contented, and are not feeling any pain or other unpleasant sensations."
+      ],
+      [
+        "employ",
+        "If a person or company employs you, they pay you to work for them."
+      ],
+      [
+        "consume",
+        "If you consume something, you eat or drink it."
+      ],
+      [
+        "terrible",
+        "A terrible experience or situation is very serious or very unpleasant."
+      ],
+      [
+        "object",
+        "An object is anything that has a fixed shape or form, that you can touch or see, and that is not alive."
+      ],
+      [
+        "attitude",
+        "Your attitude to something is the way that you think and feel about it, especially when this shows in the way you behave."
+      ],
+      [
+        "impress",
+        "If something impresses you, you feel great admiration for it."
+      ],
+      [
+        "research",
+        "Research is work that involves studying something and trying to discover facts about it."
+      ],
+      [
+        "available",
+        "If something you want or need is available, you can find it or obtain it."
+      ],
+      [
+        "audience",
+        "The audience at a play, concert, film, or public meeting is the group of people watching or listening to it."
+      ],
+      [
+        "contain",
+        "If something such as a box, bag, room, or place contains things, those things are inside it."
+      ],
+      [
+        "volunteer",
+        "A volunteer is someone who does work without being paid for it, because they want to do it."
+      ],
+      [
+        "recognize",
+        "If you recognize someone or something, you know who that person is or what that thing is."
+      ],
+      [
+        "influence",
+        "Influence is the power to make other people agree with your opinions or do what you want."
+      ],
+      [
+        "material",
+        "A material is a solid substance."
+      ],
+      [
+        "international",
+        "International means between or involving different countries."
+      ],
+      [
+        "positive",
+        "If you are positive about things, you are hopeful and confident, and think of the good aspects of a situation rather than the bad ones."
+      ],
+      [
+        "emotion",
+        "An emotion is a feeling such as happiness, love, fear, anger, or hatred, which can be caused by the situation that you are in or the people you are with."
+      ],
+      [
+        "complex",
+        "Something that is complex has many different parts, and is therefore often difficult to understand."
+      ],
+      [
+        "amaze",
+        "If something amazes you, it surprises you very much."
+      ],
+      [
+        "define",
+        "If you define something, you show, describe, or state clearly what it is and what its limits are, or what it is like."
+      ],
+      [
+        "reduce",
+        "If you reduce something, you make it smaller in size or amount, or less in degree."
+      ],
+      [
+        "proud",
+        "If you feel proud, you feel pleased about something good that you possess or have done, or about something good that a person close to you has done."
+      ],
+      [
+        "discover",
+        "If you discover something that you did not know about before, you become aware of it or learn of it."
+      ],
+      [
+        "aware",
+        "If you are aware of something, you know about it."
+      ],
+      [
+        "essence",
+        "The essence of something is its basic and most important characteristic which gives it its individual identity."
+      ],
+      [
+        "contact",
+        "Contact involves meeting or communicating with someone, especially regularly."
+      ],
+      [
+        "benefit",
+        "The benefit of something is the help that you get from it or the advantage that results from it."
+      ],
+      [
+        "performance",
+        "A performance involves entertaining an audience by doing something such as singing, dancing, or acting."
+      ],
+      [
+        "affect",
+        "If something affects a person or thing, it influences them or causes them to change in some way."
+      ],
+      [
+        "detail",
+        "The details of something are its individual features or elements."
+      ],
+      [
+        "level",
+        "A level is a point on a scale, for example a scale of amount, quality, or difficulty."
+      ],
+      [
+        "approach",
+        "When you approach something, you get closer to it."
+      ],
+      [
+        "chemistry",
+        "Chemistry is the scientific study of the structure of substances and of the way that they react with other substances."
+      ],
+      [
+        "participate",
+        "If you participate in an activity, you take part in it."
+      ],
+      [
+        "immediate",
+        "An immediate result, action, or reaction happens or is done without any delay."
+      ],
+      [
+        "fashion",
+        "Fashion is the area of activity that involves styles of clothing and appearance."
+      ],
+      [
+        "thus",
+        "You use thus to show that what you are about to mention is the result or consequence of something else that you have just mentioned."
+      ],
+      [
+        "package",
+        "A package is a small parcel."
+      ],
+      [
+        "proper",
+        "You use proper to describe things that you consider to be real and satisfactory rather than inadequate in some way."
+      ],
+      [
+        "disappear",
+        "If you say that someone or something disappears, you mean that you can no longer see them, usually because you or they have changed position."
+      ],
+      [
+        "profession",
+        "A profession is a type of job that requires advanced education or training."
+      ],
+      [
+        "career",
+        "A career is the job or profession that someone does for a long period of their life."
+      ],
+      [
+        "economic",
+        "Economic means concerned with the organization of the money, industry, and trade of a country, region, or society."
+      ],
+      [
+        "secure",
+        "If you secure something that you want or need, you obtain it, often after a lot of effort."
+      ],
+      [
+        "cell",
+        "A cell is the smallest part of an animal or plant that is able to function independently. Every animal or plant is made up of millions of cells."
+      ],
+      [
+        "novel",
+        "A novel is a long written story about imaginary people and events."
+      ],
+      [
+        "focus",
+        "If you focus on a particular topic or if your attention is focused on it, you concentrate on it and think about it, discuss it, or deal with it, rather than dealing with other topics."
+      ],
+      [
+        "despite",
+        "You use despite to introduce a fact which makes the other part of the sentence surprising."
+      ],
+      [
+        "issue",
+        "An issue is an important subject that people are arguing about or discussing."
+      ],
+      [
+        "background",
+        "Your background is the kind of family you come from and the kind of education you have had. It can also refer to such things as your social and racial origins, your financial status, or the type of work experience that you have."
+      ],
+      [
+        "decide",
+        "If you decide to do something, you choose to do it, usually after you have thought carefully about the other possibilities."
+      ],
+      [
+        "solution",
+        "A solution to a problem or difficult situation is a way of dealing with it so that the difficulty is removed."
+      ],
+      [
+        "demand",
+        "If you demand something such as information or action, you ask for it in a very forceful way."
+      ],
+      [
+        "generate",
+        "To generate something means to cause it to begin and develop."
+      ],
+      [
+        "occur",
+        "When something occurs, it happens."
+      ],
+      [
+        "eventually",
+        "Eventually means in the end, especially after a lot of delays, problems, or arguments."
+      ],
+      [
+        "decrease",
+        "When something decreases or when you decrease it, it becomes less in quantity, size, or intensity."
+      ],
+      [
+        "constant",
+        "You use constant to describe something that happens all the time or is always there."
+      ],
+      [
+        "recycle",
+        "If you recycle things that have already been used, such as bottles or sheets of paper, you process them so that they can be used again."
+      ],
+      [
+        "genius",
+        "Genius is very great ability or skill in a particular subject or activity."
+      ],
+      [
+        "desire",
+        "A desire is a strong wish to do or have something."
+      ],
+      [
+        "reflect",
+        "If something reflects an attitude or situation, it shows that the attitude or situation exists or it shows what it is like."
+      ],
+      [
+        "balance",
+        "If you balance something somewhere, or if it balances there, it remains steady and does not fall."
+      ],
+      [
+        "cause",
+        "The cause of an event, usually a bad event, is the thing that makes it happen."
+      ],
+      [
+        "publish",
+        "When a company publishes a book or magazine, it prints copies of it, which are sent to shops to be sold."
+      ],
+      [
+        "frequent",
+        "If something is frequent, it happens often."
+      ],
+      [
+        "congratulate",
+        "If you congratulate someone, you say something to show you are pleased that something nice has happened to them."
+      ],
+      [
+        "steady",
+        "A steady situation continues or develops gradually without any interruptions and is not likely to change quickly."
+      ],
+      [
+        "compose",
+        "The things that something is composed of are its parts or members. The separate things that compose something are the parts or members that form it."
+      ],
+      [
+        "extreme",
+        "Extreme means very great in degree or intensity."
+      ],
+      [
+        "follow",
+        "If you follow someone who is going somewhere, you move along behind them because you want to go to the same place."
+      ],
+      [
+        "tend",
+        "If something tends to happen, it usually happens or it often happens."
+      ],
+      [
+        "negative",
+        "A fact, situation, or experience that is negative is unpleasant, depressing, or harmful."
+      ],
+      [
+        "insist",
+        "If you insist that something should be done, you say so very firmly and refuse to give in about it. If you insist on something, you say firmly that it must be done or provided."
+      ],
+      [
+        "occasion",
+        "An occasion is a time when something happens, or a case of it happening."
+      ],
+      [
+        "extend",
+        "If you say that something, usually something large, extends for a particular distance or extends from one place to another, you are indicating its size or position."
+      ],
+      [
+        "replace",
+        "If one thing or person replaces another, the first is used or acts instead of the second."
+      ],
+      [
+        "politics",
+        "Politics are the actions or activities concerned with achieving and using power in a country or society. The verb that follows politics may be either singular or plural."
+      ],
+      [
+        "expert",
+        "An expert is a person who is very skilled at doing something or who knows a lot about a particular subject."
+      ],
+      [
+        "lonely",
+        "Someone who is lonely is unhappy because they are alone or do not have anyone they can talk to."
+      ],
+      [
+        "term",
+        "If you talk about something in terms of something or in particular terms, you are specifying which aspect of it you are discussing or from what point of view you are considering it."
+      ],
+      [
+        "habitat",
+        "The habitat of an animal or plant is the natural environment in which it normally lives or grows."
+      ],
+      [
+        "relieve",
+        "If something relieves an unpleasant feeling or situation, it makes it less unpleasant or causes it to disappear completely."
+      ],
+      [
+        "mental",
+        "Mental means relating to the process of thinking."
+      ],
+      [
+        "describe",
+        "If you describe a person, object, event, or situation, you say what they are like or what happened."
+      ],
+      [
+        "factor",
+        "A factor is one of the things that affects an event, decision, or situation."
+      ],
+      [
+        "biology",
+        "Biology is the science which is concerned with the study of living things."
+      ],
+      [
+        "exchange",
+        "If two or more people exchange things of a particular kind, they give them to each other at the same time."
+      ],
+      [
+        "due",
+        "If an event is due to something, it happens or exists as a direct result of that thing."
+      ],
+      [
+        "active",
+        "Someone who is active moves around a lot or does a lot of things."
+      ],
+      [
+        "equipment",
+        "Equipment consists of the things which are used for a particular purpose, for example a hobby or job."
+      ],
+      [
+        "species",
+        "A species is a class of plants or animals whose members have the same main characteristics and are able to breed with each other."
+      ],
+      [
+        "account",
+        "If you have an account with a bank or a similar organization, you have an arrangement to leave your money there and take some out when you need it."
+      ],
+      [
+        "athletic",
+        "Athletic means relating to athletes and athletics."
+      ],
+      [
+        "birth",
+        "When a baby is born, you refer to this event as his or her birth."
+      ],
+      [
+        "dental",
+        "Dental is used to describe things that relate to teeth or to the care and treatment of teeth."
+      ],
+      [
+        "delight",
+        "Delight is a feeling of very great pleasure."
+      ],
+      [
+        "commerce",
+        "Commerce is the activities and procedures involved in buying and selling things."
+      ],
+      [
+        "confident",
+        "If you are confident about something, you are certain that it will happen in the way you want it to."
+      ],
+      [
+        "capable",
+        "If a person or thing is capable of doing something, they have the ability to do it."
+      ],
+      [
+        "gradually",
+        "If something changes or is done gradually, it changes or is done in small stages over a long period of time, rather than suddenly."
+      ],
+      [
+        "fuel",
+        "Fuel is a substance such as coal, oil, or petrol that is burned to provide heat or power."
+      ],
+      [
+        "electricity",
+        "Electricity is a form of energy that can be carried by wires and is used for heating and lighting, and to provide power for machines."
+      ],
+      [
+        "manufacture",
+        "To manufacture something means to make it in a factory, usually in large quantities."
+      ],
+      [
+        "shadow",
+        "A shadow is a dark shape on a surface that is made when something stands between a light and the surface."
+      ],
+      [
+        "movement",
+        "A movement is a group of people who share the same beliefs, ideas, or aims."
+      ],
+      [
+        "access",
+        "If you have access to a building or other place, you are able or allowed to go into it."
+      ],
+      [
+        "combine",
+        "If you combine two or more things or if they combine, they exist together."
+      ],
+      [
+        "announce",
+        "If you announce something, you tell people about it publicly or officially."
+      ],
+      [
+        "gene",
+        "A gene is the part of a cell in a living thing which controls its physical characteristics, growth, and development."
+      ],
+      [
+        "allow",
+        "If someone is allowed to do something, it is all right for them to do it and they will not get into trouble."
+      ],
+      [
+        "response",
+        "Your response to an event or to something that is said is your reply or reaction to it."
+      ],
+      [
+        "firm",
+        "A firm is an organization which sells or produces something or which provides a service which people pay for."
+      ],
+      [
+        "victim",
+        "A victim is someone who has been hurt or killed."
+      ],
+      [
+        "vary",
+        "If things vary, they are different from each other in size, amount, or degree."
+      ],
+      [
+        "pressure",
+        "Pressure is force that you produce when you press hard on something."
+      ],
+      [
+        "injure",
+        "If you injure a person or animal, you damage some part of their body."
+      ],
+      [
+        "accompany",
+        "If you accompany someone, you go somewhere with them."
+      ],
+      [
+        "permit",
+        "If someone permits something, they allow it to happen. If they permit you to do something, they allow you to do it."
+      ],
+      [
+        "frustrate",
+        "If something frustrates you, it upsets or angers you because you are unable to do anything about the problems it creates."
+      ],
+      [
+        "threat",
+        "A threat to a person or thing is a danger that something unpleasant might happen to them. A threat is also the cause of this danger."
+      ],
+      [
+        "construct",
+        "If you construct something such as a building, road, or machine, you build it or make it."
+      ],
+      [
+        "flood",
+        "If there is a flood, a large amount of water covers an area which is usually dry, for example when a river flows over its banks or a pipe bursts."
+      ],
+      [
+        "dwindle",
+        "If something dwindles, it becomes smaller, weaker, or less in number."
+      ],
+      [
+        "disabled",
+        "Someone who is disabled has an illness, injury, or condition that tends to restrict the way that they can live their life, especially by making it difficult for them to move about."
+      ],
+      [
+        "increase",
+        "If something increases or you increase it, it becomes greater in number, level, or amount."
+      ],
+      [
+        "lack",
+        "If there is a lack of something, there is not enough of it or it does not exist at all."
+      ],
+      [
+        "entertain",
+        "If a performer, performance, or activity entertains you, it amuses you, interests you, or gives you pleasure."
+      ],
+      [
+        "signify",
+        "If an event, a sign, or a symbol signifies something, it is a sign of that thing or represents that thing."
+      ],
+      [
+        "predict",
+        "If you predict an event, you say that it will happen."
+      ],
+      [
+        "concentrate",
+        "If you concentrate on something, or concentrate your mind on it, you give all your attention to it."
+      ],
+      [
+        "apologize",
+        "When you apologize to someone, you say that you are sorry that you have hurt them or caused trouble for them. You can say `I apologize' as a formal way of saying sorry."
+      ],
+      [
+        "emphasize",
+        "To emphasize something means to indicate that it is particularly important or true, or to draw special attention to it."
+      ],
+      [
+        "sight",
+        "Someone's sight is their ability to see."
+      ],
+      [
+        "astronomy",
+        "Astronomy is the scientific study of the stars, planets, and other natural objects in space."
+      ],
+      [
+        "quantity",
+        "A quantity is an amount that you can measure or count."
+      ],
+      [
+        "conclude",
+        "If you conclude that something is true, you decide that it is true using the facts you know as a basis."
+      ],
+      [
+        "claim",
+        "If you say that someone claims that something is true, you mean they say that it is true but you are not sure whether or not they are telling the truth."
+      ],
+      [
+        "donate",
+        "If you donate something to a charity or other organization, you give it to them."
+      ],
+      [
+        "stock",
+        "Stocks are shares in the ownership of a company, or investments on which a fixed amount of interest will be paid."
+      ],
+      [
+        "personality",
+        "Your personality is your whole character and nature."
+      ],
+      [
+        "resident",
+        "The residents of a house or area are the people who live there."
+      ],
+      [
+        "struggle",
+        "If you struggle to do something, you try hard to do it, even though other people or things may be making it difficult for you to succeed."
+      ],
+      [
+        "reasonable",
+        "If you think that someone is fair and sensible you can say that they are reasonable."
+      ],
+      [
+        "electronic",
+        "An electronic device has transistors or silicon chips which control and change the electric current passing through the device."
+      ],
+      [
+        "interrupt",
+        "If you interrupt someone who is speaking, you say or do something that causes them to stop."
+      ],
+      [
+        "absorb",
+        "If something absorbs a liquid, gas, or other substance, it soaks it up or takes it in."
+      ],
+      [
+        "discount",
+        "A discount is a reduction in the usual price of something."
+      ],
+      [
+        "advantage",
+        "An advantage is something that puts you in a better position than other people."
+      ],
+      [
+        "creature",
+        "You can refer to any living thing that is not a plant as a creature, especially when it is of an unknown or unfamiliar kind. People also refer to imaginary animals and beings as creatures."
+      ],
+      [
+        "incredible",
+        "If you describe something or someone as incredible, you like them very much or are impressed by them, because they are extremely or unusually good."
+      ],
+      [
+        "heal",
+        "When a broken bone or other injury heals or when something heals it, it becomes healthy and normal again."
+      ],
+      [
+        "enable",
+        "If someone or something enables you to do a particular thing, they give you the opportunity to do it."
+      ],
+      [
+        "stranger",
+        "A stranger is someone you have never met before."
+      ],
+      [
+        "instruction",
+        "An instruction is something that someone tells you to do."
+      ],
+      [
+        "revolution",
+        "A revolution is a successful attempt by a large group of people to change the political system of their country by force."
+      ],
+      [
+        "assume",
+        "If you assume that something is true, you imagine that it is true, sometimes wrongly."
+      ],
+      [
+        "criticize",
+        "If you criticize someone or something, you express your disapproval of them by saying what you think is wrong with them."
+      ],
+      [
+        "attempt",
+        "If you attempt to do something, especially something difficult, you try to do it."
+      ],
+      [
+        "convince",
+        "If someone or something convinces you of something, they make you believe that it is true or that it exists."
+      ],
+      [
+        "variety",
+        "If something has variety, it consists of things which are different from each other."
+      ],
+      [
+        "feature",
+        "A feature of something is an interesting or important part or characteristic of it."
+      ],
+      [
+        "confuse",
+        "If you confuse two things, you get them mixed up, so that you think one of them is the other one."
+      ],
+      [
+        "tide",
+        "The tide is the regular change in the level of the sea on the shore."
+      ],
+      [
+        "indicate",
+        "If one thing indicates another, the first thing shows that the second is true or exists."
+      ],
+      [
+        "establish",
+        "If someone establishes something such as an organization, a type of activity, or a set of rules, they create it or introduce it in such a way that it is likely to last for a long time."
+      ],
+      [
+        "analyze",
+        "If you analyse something, you consider itcarefully or use statistical methods in orderto fully understand it"
+      ],
+      [
+        "obtain",
+        "To obtain something means to get it or achieve it."
+      ],
+      [
+        "labor",
+        "Labour is very hard work, usually physicalwork. → see also hard labour"
+      ],
+      [
+        "assist",
+        "If you assist someone, you help them to do a job or task by doing part of the work for them."
+      ],
+      [
+        "remark",
+        "If you remark that something is the case, you say that it is the case."
+      ],
+      [
+        "disaster",
+        "A disaster is a very bad accident such as an earthquake or a plane crash, especially one in which a lot of people are killed."
+      ],
+      [
+        "moral",
+        "Morals are principles and beliefs concerning right and wrong behaviour."
+      ],
+      [
+        "efficient",
+        "If something or someone is efficient, they are able to do tasks successfully, without wasting time or energy."
+      ],
+      [
+        "embarrass",
+        "If something or someone embarrasses you, they make you feel shy or ashamed."
+      ],
+      [
+        "terrific",
+        "If you describe something or someone as terrific, you are very pleased with them or very impressed by them."
+      ],
+      [
+        "react",
+        "When you react to something that has happened to you, you behave in a particular way because of it."
+      ],
+      [
+        "route",
+        "A route is a way from one place to another."
+      ],
+      [
+        "independent",
+        "If one thing or person is independent of another, they are separate and not connected, so the first one is not affected or influenced by the second."
+      ],
+      [
+        "psychology",
+        "Psychology is the scientific study of the human mind and the reasons for people's behaviour."
+      ],
+      [
+        "theory",
+        "A theory is a formal idea or set of ideas that is intended to explain something."
+      ],
+      [
+        "passion",
+        "Passion is strong sexual feelings towards someone."
+      ],
+      [
+        "qualify",
+        "When someone qualifies, they pass the examinations that they need to be able to work in a particular profession."
+      ],
+      [
+        "weed",
+        "A weed is a wild plant that grows in gardens or fields of crops and prevents the plants that you want from growing properly."
+      ],
+      [
+        "clue",
+        "A clue to a problem or mystery is something that helps you to find the answer to it."
+      ],
+      [
+        "conscience",
+        "Your conscience is the part of your mind that tells you whether what you are doing is right or wrong. If you have a guilty conscience, you feel guilty about something because you know it was wrong. If you have a clear conscience, you do not feel guilty because you know you have done nothing wrong."
+      ],
+      [
+        "recall",
+        "When you recall something, you remember it and tell others about it."
+      ],
+      [
+        "consider",
+        "If you consider a person or thing to be something, you have the opinion that this is what they are."
+      ],
+      [
+        "risk",
+        "If there is a risk of something unpleasant, there is a possibility that it will happen."
+      ],
+      [
+        "salary",
+        "A salary is the money that someone is paid each month by their employer, especially when they are in a profession such as teaching, law, or medicine."
+      ],
+      [
+        "cancer",
+        "Cancer is a serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths."
+      ],
+      [
+        "pose",
+        "If something poses a problem or a danger, it is the cause of that problem or danger."
+      ],
+      [
+        "treatment",
+        "Treatment is medical attention given to a sick or injured person or animal."
+      ],
+      [
+        "purchase",
+        "When you purchase something, you buy it."
+      ],
+      [
+        "specific",
+        "You use specific to refer to a particular fixed area, problem, or subject."
+      ],
+      [
+        "length",
+        "The length of something is the amount that it measures from one end to the other along the longest side."
+      ],
+      [
+        "engage",
+        "If you engage in an activity, you do it or are actively involved with it."
+      ],
+      [
+        "occupy",
+        "The people who occupy a building or a place are the people who live or work there."
+      ],
+      [
+        "motivate",
+        "If you are motivated by something, especially an emotion, it causes you to behave in a particular way."
+      ],
+      [
+        "acquire",
+        "If you acquire something, you buy or obtain it for yourself, or someone gives it to you."
+      ],
+      [
+        "import",
+        "To import products or raw materials means to buy them from another country for use in your own country."
+      ],
+      [
+        "interact",
+        "When people interact with each other or interact, they communicate as they work or spend time together."
+      ],
+      [
+        "elder",
+        "The elder of two people is the one who was born first."
+      ],
+      [
+        "poetry",
+        "Poems, considered as a form of literature, are referred to as poetry."
+      ],
+      [
+        "depress",
+        "If someone or something depresses you, they make you feel sad and disappointed."
+      ],
+      [
+        "lifetime",
+        "A lifetime is the length of time that someone is alive."
+      ],
+      [
+        "fascinate",
+        "If something fascinates you, it interests and delights you so much that your thoughts tend to concentrate on it."
+      ],
+      [
+        "decade",
+        "A decade is a period of ten years, especially one that begins with a year ending in 0, for example 1980 to 1989."
+      ],
+      [
+        "violent",
+        "If someone is violent, or if they do something which is violent, they use physical force or weapons to hurt, injure, or kill other people."
+      ],
+      [
+        "grain",
+        "A grain of wheat, rice, or other cereal crop is a seed from it."
+      ],
+      [
+        "alarm",
+        "Alarm is a feeling of fear or anxiety that something unpleasant or dangerous might happen."
+      ],
+      [
+        "meaningful",
+        "If you describe something as meaningful, you mean that it is serious, important, or useful in some way."
+      ],
+      [
+        "edge",
+        "The edge of something is the place or line where it stops, or the part of it that is furthest from the middle."
+      ],
+      [
+        "brief",
+        "Something that is brief lasts for only a short time."
+      ],
+      [
+        "deserve",
+        "If you say that a person or thing deserves something, you mean that they should have it or receive it because of their actions or qualities."
+      ],
+      [
+        "severe",
+        "You use severe to indicate that something bad or undesirable is great or intense."
+      ],
+      [
+        "survival",
+        "If you refer to the survival of something or someone, you mean that they manage to continue or exist in spite of difficult circumstances."
+      ],
+      [
+        "mass",
+        "A mass of things is a large number of them grouped together."
+      ],
+      [
+        "comment",
+        "If you comment on something, you give your opinion about it or you give an explanation for it."
+      ],
+      [
+        "committee",
+        "A committee is a group of people who meet to make decisions or plans for a larger group or organization that they represent."
+      ],
+      [
+        "leap",
+        "If you leap, you jump high in the air or jump a long distance."
+      ],
+      [
+        "accurate",
+        "Accurate information, measurements, and statistics are correct to a very detailed level. An accurate instrument is able to give you information of this kind."
+      ],
+      [
+        "survey",
+        "If you carry out a survey, you try to find out detailed information about a lot of different people or things, usually by asking people a series of questions."
+      ],
+      [
+        "arrange",
+        "If you arrange an event or meeting, you make plans for it to happen."
+      ],
+      [
+        "mechanic",
+        "A mechanic is someone whose job is to repair and maintain machines and engines, especially car engines."
+      ],
+      [
+        "consult",
+        "If you consult an expert or someone senior to you or consult with them, you ask them for their opinion and advice about what you should do or their permission to do something."
+      ],
+      [
+        "mood",
+        "Your mood is the way you are feeling at a particular time. If you are in a good mood, you feel cheerful. If you are in a bad mood, you feel angry and impatient."
+      ],
+      [
+        "refer",
+        "If you refer to a particular subject or person, you talk about them or mention them."
+      ],
+      [
+        "mere",
+        "You use mere to emphasize how unimportant or inadequate something is, in comparison to the general situation you are describing."
+      ],
+      [
+        "recover",
+        "When you recover from an illness or an injury, you become well again."
+      ],
+      [
+        "typical",
+        "You use typical to describe someone or something that shows the most usual characteristics of a particular type of person or thing, and is therefore a good example of that type."
+      ],
+      [
+        "facility",
+        "Facilities are buildings, pieces of equipment, or services that are provided for a particular purpose."
+      ],
+      [
+        "approve",
+        "If you approve of an action, event, or suggestion, you like it or are pleased about it."
+      ],
+      [
+        "downtown",
+        "Downtown places are in or towards the centre of a large town or city, where the shops and places of business are."
+      ],
+      [
+        "rural",
+        "Rural places are far away from large towns or cities."
+      ],
+      [
+        "attach",
+        "If you attach something to an object, you join it or fasten it to the object."
+      ],
+      [
+        "finance",
+        "When someone finances something such as a project or a purchase, they provide the money that is needed to pay for them."
+      ],
+      [
+        "monster",
+        "A monster is a large imaginary creature that looks very ugly and frightening."
+      ],
+      [
+        "operation",
+        "An operation is a highly organized activity that involves many people doing different things."
+      ],
+      [
+        "enormous",
+        "Something that is enormous is extremely large in size or amount."
+      ],
+      [
+        "crime",
+        "A crime is an illegal action or activity for which a person can be punished by law."
+      ],
+      [
+        "domestic",
+        "Domestic political activities, events, and situations happen or exist within one particular country."
+      ],
+      [
+        "awful",
+        "If you say that someone or something is awful, you dislike that person or thing or you think that they are not very good."
+      ],
+      [
+        "wealth",
+        "Wealth is the possession of a large amount of money, property, or other valuable things. You can also refer to a particular person's money or property as their wealth."
+      ],
+      [
+        "series",
+        "A series of things or events is a number of them that come one after the other."
+      ],
+      [
+        "elementary",
+        "Something that is elementary is very simple and basic."
+      ],
+      [
+        "exhausted",
+        "If something exhausts you, it makes you so tired, either physically or mentally, that you have noenergy left."
+      ],
+      [
+        "reward",
+        "A reward is something that you are given, for example because you have behaved well, worked hard, or provided a service to the community."
+      ],
+      [
+        "flu",
+        "Flu is an illness which is similar to a bad cold but more serious. It often makes you feel very weak and makes your muscles hurt."
+      ],
+      [
+        "gap",
+        "A gap is a space between two things or a hole in the middle of something solid."
+      ],
+      [
+        "surround",
+        "If a person or thing is surrounded by something, that thing is situated all around them."
+      ],
+      [
+        "except",
+        "You use except to introduce the only thing or person that a statement does not apply to, or a fact that prevents a statement from being completely true."
+      ],
+      [
+        "display",
+        "If you display something that you want people to see, you put it in a particular place, so that people can see it easily."
+      ],
+      [
+        "journey",
+        "When you make a journey, you travel from one place to another."
+      ],
+      [
+        "policy",
+        "A policy is a set of ideas or plans that is used as a basis for making decisions, especially in politics, economics, or business."
+      ],
+      [
+        "plain",
+        "A plain object, surface, or fabric is entirely in one colour and has no pattern, design, or writing on it."
+      ],
+      [
+        "previous",
+        "A previous event or thing is one that happened or existed before the one that you are talking about."
+      ],
+      [
+        "intend",
+        "If you intend to do something, you have decided or planned to do it."
+      ],
+      [
+        "muscle",
+        "A muscle is a piece of tissue inside your body which connects two bones and which you use when you make a movement."
+      ],
+      [
+        "award",
+        "An award is a prize or certificate that a person is given for doing something well."
+      ],
+      [
+        "leisure",
+        "Leisure is the time when you are not working and you can relax and do things that you enjoy."
+      ],
+      [
+        "preserve",
+        "If you preserve a situation or condition, you make sure that it remains as it is, and does not change or end."
+      ],
+      [
+        "produce",
+        "To produce something means to cause it to happen."
+      ],
+      [
+        "underground",
+        "Something that is underground is below the surface of the ground."
+      ],
+      [
+        "remain",
+        "If someone or something remains in a particular state or condition, they stay in that state or condition and do not change."
+      ],
+      [
+        "consequence",
+        "The consequences of something are the results or effects of it."
+      ],
+      [
+        "break",
+        "When an object breaks or when you break it, it suddenly separates into two or more pieces, often because it has been hit or dropped."
+      ],
+      [
+        "aspect",
+        "An aspect of something is one of the parts of its character or nature."
+      ],
+      [
+        "breed",
+        "A breed of a pet animal or farm animal is a particular type of it. For example, terriers are a breed of dog."
+      ],
+      [
+        "target",
+        "A target is something at which someone is aiming a weapon or other object."
+      ],
+      [
+        "slight",
+        "Something that is slight is very small in degree or quantity."
+      ],
+      [
+        "headache",
+        "If you have a headache, you have a pain in your head."
+      ],
+      [
+        "delay",
+        "If you delay doing something, you do not do it immediately or at the planned or expected time, but you leave it until later."
+      ],
+      [
+        "unless",
+        "You use unless to introduce the only circumstances in which an event you are mentioning will not take place or in which a statement you are making is not true."
+      ],
+      [
+        "file",
+        "A file is a box or a folded piece of heavy paper or plastic in which letters or documents are kept."
+      ],
+      [
+        "horizon",
+        "The horizon is the line in the far distance where the sky seems to meet the land or the sea."
+      ],
+      [
+        "ethic",
+        "Ethics are moral beliefs and rules about right and wrong."
+      ],
+      [
+        "accomplish",
+        "If you accomplish something, you succeed in doing it."
+      ],
+      [
+        "instant",
+        "An instant is an extremely short period of time."
+      ],
+      [
+        "surf",
+        "Surf is the mass of white bubbles that is formed by waves as they fall upon the shore."
+      ],
+      [
+        "reveal",
+        "To reveal something means to make people aware of it."
+      ],
+      [
+        "adopt",
+        "If you adopt a new attitude, plan, or way of behaving, you begin to have it."
+      ],
+      [
+        "include",
+        "If one thing includes another thing, it has the other thing as one of its parts."
+      ],
+      [
+        "potential",
+        "You use potential to say that someone or something is capable of developing into the particular kind of person or thing mentioned."
+      ],
+      [
+        "urban",
+        "Urban means belonging to, or relating to, a town or city."
+      ],
+      [
+        "slip",
+        "If you slip, you accidentally slide and lose your balance."
+      ],
+      [
+        "witness",
+        "A witness to an event such as an accident or crime is a person who saw it."
+      ],
+      [
+        "civilization",
+        "A civilization is a human society with its own social organization and culture."
+      ],
+      [
+        "admit",
+        "If you admit that something bad, unpleasant, or embarrassing is true, you agree, often unwillingly, that it is true."
+      ],
+      [
+        "row",
+        "A row of things or people is a number of them arranged in a line."
+      ],
+      [
+        "device",
+        "A device is an object that has been invented for a particular purpose, for example for recording or measuring something."
+      ],
+      [
+        "atmosphere",
+        "A planet's atmosphere is the layer of air or other gases around it."
+      ],
+      [
+        "suppose",
+        "You can use suppose or supposing before mentioning a possible situation or action. You usually then go on to consider the effects that this situation or action might have."
+      ],
+      [
+        "label",
+        "A label is a piece of paper or plastic that is attached to an object in order to give information about it."
+      ],
+      [
+        "owe",
+        "If you owe money to someone, they have lent it to you and you have not yet paid it back. You can also say that the money is owing."
+      ],
+      [
+        "decorate",
+        "If you decorate something, you make it more attractive by adding things to it."
+      ],
+      [
+        "identify",
+        "If you can identify someone or something, you are able to recognize them or distinguish them from others."
+      ],
+      [
+        "physics",
+        "Physics is the scientific study of forces such as heat, light, sound, pressure, gravity, and electricity, and the way that they affect objects."
+      ],
+      [
+        "secretary",
+        "A secretary is a person who is employed to do office work, such as typing letters, answering phone calls, and arranging meetings."
+      ],
+      [
+        "evaluate",
+        "If you evaluate something or someone, you consider them in order to make a judgment about them, for example about how good or bad they are."
+      ],
+      [
+        "scale",
+        "If you refer to the scale of something, you are referring to its size or extent, especially when it is very big."
+      ],
+      [
+        "fulfill",
+        "If you fulfil something such as a promise, dream, or hope, you do what you said or hoped you would do."
+      ],
+      [
+        "addict",
+        "An addict is someone who takes harmful drugs and cannot stop taking them."
+      ],
+      [
+        "stink",
+        "To stink means to smell extremely unpleasant."
+      ],
+      [
+        "evident",
+        "If something is evident, you notice it easily and clearly."
+      ],
+      [
+        "tremendous",
+        "You use tremendous to emphasize how strong a feeling or quality is, or how large an amount is."
+      ],
+      [
+        "seldom",
+        "If something seldom happens, it happens only occasionally."
+      ],
+      [
+        "application",
+        "An application for something such as a job or membership of an organization is a formal written request for it."
+      ],
+      [
+        "standard",
+        "A standard is a level of quality or achievement, especially a level that is thought to be acceptable."
+      ],
+      [
+        "vote",
+        "A vote is a choice made by a particular person or group in a meeting or an election."
+      ],
+      [
+        "basis",
+        "If something is done on a particular basis, it is done according to that method, system, or principle."
+      ],
+      [
+        "railroad",
+        "A railroad is a route between two places along which trains travel on steel rails."
+      ],
+      [
+        "automatic",
+        "An automatic machine or device is one which has controls that enable it to perform a task without needing to be constantly operated by a person. Automatic methods and processes involve the use of such machines."
+      ],
+      [
+        "cooperate",
+        "to work or act together"
+      ],
+      [
+        "region",
+        "A region is a large area of land that is different from other areas of land, for example because it is one of the different parts of a country with its own customs and characteristics, or because it has a particular geographical feature."
+      ],
+      [
+        "emit",
+        "If something emits heat, light, gas, or a smell, it produces it and sends it out by means of a physical or chemical process."
+      ],
+      [
+        "rise",
+        "If something rises, it moves upwards."
+      ],
+      [
+        "request",
+        "If you request something, you ask for it politely or formally."
+      ],
+      [
+        "artificial",
+        "Artificial objects, materials, or processes do not occur naturally and are created by human beings, for example using science or technology."
+      ],
+      [
+        "guarantee",
+        "If one thing guarantees another, the first is certain to cause the second thing to happen."
+      ],
+      [
+        "possess",
+        "If you possess something, you have it or own it."
+      ],
+      [
+        "resist",
+        "If you resist something such as a change, you refuse to accept it and try to prevent it."
+      ],
+      [
+        "substance",
+        "A substance is a solid, powder, liquid, or gas with particular properties."
+      ],
+      [
+        "grant",
+        "A grant is an amount of money that a government or other institution gives to an individual or to an organization for a particular purpose such as education or home improvements."
+      ],
+      [
+        "realistic",
+        "If you are realistic about a situation, you recognize and accept its true nature and try to deal with it in a practical way."
+      ],
+      [
+        "permanent",
+        "Something that is permanent lasts for ever."
+      ],
+      [
+        "disappoint",
+        "If things or people disappoint you, they are not as good as you had hoped, or do not do what you hoped they would do."
+      ],
+      [
+        "emergency",
+        "An emergency is an unexpected and difficult or dangerous situation, especially an accident, which happens suddenly and which requires quick action to deal with it."
+      ],
+      [
+        "encounter",
+        "If you encounter problems or difficulties, you experience them."
+      ],
+      [
+        "rid",
+        "When you get rid of something that you do not want or do not like, you take action so that you no longer have it or suffer from it."
+      ],
+      [
+        "differ",
+        "If two or more things differ, they are unlike each other in some way."
+      ],
+      [
+        "impact",
+        "The impact that something has on a situation, process, or person is a sudden and powerful effect that it has on them."
+      ],
+      [
+        "principle",
+        "A principle is a general belief that you have about the way you should behave, which influences your behaviour."
+      ],
+      [
+        "theme",
+        "A theme in a piece of writing, a talk, or a discussion is an important idea or subject that runs through it."
+      ],
+      [
+        "memorize",
+        "If you memorize something, you learn it so that you can remember it exactly."
+      ],
+      [
+        "rely",
+        "If you rely on someone or something, you need them and depend on them in order to live or work properly."
+      ],
+      [
+        "hesitate",
+        "If you hesitate, you do not speak or act for a short time, usually because you are uncertain, embarrassed, or worried about what you are going to say or do."
+      ],
+      [
+        "gear",
+        "The gears on a machine or vehicle are a device for changing the rate at which energy is changed into motion."
+      ],
+      [
+        "location",
+        "A location is the place where something happens or is situated."
+      ],
+      [
+        "ray",
+        "Rays of light are narrow beams of light."
+      ],
+      [
+        "organism",
+        "An organism is an animal or plant, especially one that is so small that you cannot see it without using a microscope."
+      ],
+      [
+        "release",
+        "If a person or animal is released from somewhere where they have been locked up or looked after, they are set free or allowed to go."
+      ],
+      [
+        "resolve",
+        "To resolve a problem, argument, or difficulty means to find a solution to it."
+      ],
+      [
+        "slave",
+        "A slave is someone who is the property of another person and has to work for that person."
+      ],
+      [
+        "curve",
+        "A curve is a smooth, gradually bending line, for example part of the edge of a circle."
+      ],
+      [
+        "perceive",
+        "If you perceive something, you see, notice, or realize it, especially when it is not obvious."
+      ],
+      [
+        "suitable",
+        "Someone or something that is suitable for a particular purpose or occasion is right or acceptable for it."
+      ],
+      [
+        "rank",
+        "Someone's rank is the position or grade that they have in an organization."
+      ],
+      [
+        "distribute",
+        "If you distribute things, you hand them or deliver them to a number of people."
+      ],
+      [
+        "offer",
+        "If you offer something to someone, you ask them if they would like to have it or use it."
+      ],
+      [
+        "restrict",
+        "If you restrict something, you put a limit on it in order to reduce it or prevent it becoming too great."
+      ],
+      [
+        "symphony",
+        "A symphony is a piece of music written to be played by an orchestra. Symphonies are usually made up of four separate sections called movements."
+      ],
+      [
+        "rainforest",
+        "A rainforest is a thick forest of tall trees which is found in tropical areas where there is a lot of rain."
+      ],
+      [
+        "envy",
+        "Envy is the feeling you have when you wish you could have the same thing or quality that someone else has."
+      ],
+      [
+        "circumstance",
+        "The circumstances of a particular situation are the conditions which affect what happens."
+      ],
+      [
+        "gather",
+        "If people gather somewhere or if someone gathers people somewhere, they come together in a group."
+      ],
+      [
+        "interpret",
+        "If you interpret something in a particular way, you decide that this is its meaning or significance."
+      ],
+      [
+        "corporate",
+        "Corporate means relating to business corporations or to a particular business corporation."
+      ],
+      [
+        "recite",
+        "When someone recites a poem or other piece of writing, they say it aloud after they have learned it."
+      ],
+      [
+        "autograph",
+        "An autograph is the signature of someone famous which is specially written for a fan to keep."
+      ],
+      [
+        "annoy",
+        "If someone or something annoys you, it makes you fairly angry and impatient."
+      ],
+      [
+        "retire",
+        "When older people retire, they leave their job and usually stop working completely."
+      ],
+      [
+        "frighten",
+        "If something or someone frightens you, they cause you to suddenly feel afraid, anxious, or nervous."
+      ],
+      [
+        "appeal",
+        "If you appeal to someone to do something, you make a serious and urgent request to them."
+      ],
+      [
+        "estimate",
+        "If you estimate a quantity or value, you make an approximate judgment or calculation of it."
+      ],
+      [
+        "identical",
+        "Things that are identical are exactly the same."
+      ],
+      [
+        "refuse",
+        "If you refuse to do something, you deliberately do not do it, or you say firmly that you will not do it."
+      ],
+      [
+        "innocence",
+        "Innocence is the quality of having no experience or knowledge of the more complex or unpleasant aspects of life."
+      ],
+      [
+        "adventure",
+        "If someone has an adventure, they become involved in an unusual, exciting, and rather dangerous journey or series of events."
+      ],
+      [
+        "investment",
+        "Investment is the activity of investing money."
+      ],
+      [
+        "entrance",
+        "The entrance to a place is the way into it, for example a door or gate."
+      ],
+      [
+        "authority",
+        "The authorities are the people who have the power to make decisions and to make sure that laws are obeyed."
+      ],
+      [
+        "persuade",
+        "If you persuade someone to do something, you cause them to do it by giving them good reasons for doing it."
+      ],
+      [
+        "harm",
+        "To harm a person or animal means to cause them physical injury, usually on purpose."
+      ],
+      [
+        "cabin",
+        "A cabin is a small room in a ship or boat."
+      ],
+      [
+        "alternative",
+        "If one thing is an alternative to another, the first can be found, used, or done instead of the second."
+      ]
+    ]
+  }
